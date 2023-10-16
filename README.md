@@ -9,3 +9,5 @@ In the experiment was applied 7.95 kV voltage phase-to-ground, corresponding to 
 Each insulator under evaluation had its signal recorded separately for 50 seconds. Considering that the partial discharge typically happens in frequencies between 10 kHz and 210 kHz, this recorded time ensures that all necessary samples are captured. To standardize the evaluation 100,000 samples were considered. An example of this output is presented here (given 10,000 samples):
 
 ![image](https://github.com/SFStefenon/InsulatorClassificationUltrasound/assets/88292916/ed2af8b8-63e3-457a-9537-a42ff3f790a9)
+
+This dataset has five insulator records representing different conditions: new, drilled, and contaminated.
