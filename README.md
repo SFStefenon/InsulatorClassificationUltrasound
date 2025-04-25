@@ -12,6 +12,8 @@ Each insulator under evaluation had its signal recorded separately for 50 second
 
 This dataset has five insulator records representing different conditions: new insulator, contaminated insulator, contaminated insulator (with added salt), insulator with moisture and perforation, and insulator contaminated with perforation. The contaminated insulator is considering the method described in IEC/507 (Artificial Pollution Tests on High-Voltage Insulators to Beused on A.C. Systems). To perform the drilling, a bench drill with a 3 mm diameter drill was used.
 
+---
+
 Thank you.
 
 Dr. **Stefano Frizzo Stefenon**.
